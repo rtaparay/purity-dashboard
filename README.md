@@ -204,6 +204,3 @@ authorization: JWT_TOKEN (returned by Login request)
 - See for [React Starters](https://appseed.us/apps/react) - index provided by AppSeed
 
 <br />
-
----
-**[Django React Purity Dashboard](https://appseed.us/product/django-react-purity-dashboard)** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
